@@ -1,0 +1,63 @@
+.logmanagemaindiv{
+    width: 640px;
+    height: 400px;
+}
+
+.logmanagebutton{
+    width: 90px;
+    height: 30px;
+}
+
+.selectdatadiv{
+    margin-top: 90px;
+}
+
+#dataselecttd{
+    width: 300px;
+}
+
+#inputname{
+    padding-left: 10px;
+}
+
+#selectuserbutton{
+    padding-left: 10px;
+}
+
+.bottombuttondiv{
+    margin-top: 80px;
+    float: right;
+}
+
+#select_user_win{
+    display: none;
+    position: fixed;
+    align-items: center;
+    top:28%;
+    left:28%;
+    width: 420px;
+    height: 230px;
+    border: 3px solid honeydew;
+    background-color: aliceblue;
+    z-index: 11;
+    border-radius: 8px;
+}
+
+#userchoose{
+    font-size: 20px;
+}
+
+#userselecttable{
+    margin-top: 20px;
+    width: 300px;
+    height: 80px;
+
+}
+
+#buttondiv{
+    margin-top: 20px;
+}
+
+#cancelbutton{
+    margin-left: 20px;
+}

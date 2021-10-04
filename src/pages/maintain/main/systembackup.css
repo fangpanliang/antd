@@ -1,0 +1,13 @@
+#systembackupdiv{
+    width: 60%;
+    margin:30px auto;
+}
+
+#autobackupspan{
+    margin-left: 30px;
+}
+
+#backupbutton{
+    width: 90px;
+    margin-left: 30px;
+}

@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "select":false,
+        "loginName": "zs",
+        "nickName": "张三",
+        "userGroup": "部门1"
+      },
+      {
+        "select":false,
+        "loginName": "ls",
+        "nickName": "李四",
+        "userGroup": "部门1"
+      },
+      {
+        "select":false,
+        "loginName": "ww",
+        "nickName": "王五",
+        "userGroup": "部门2"
+      },
+      {
+        "select":false,
+        "loginName": "zl",
+        "nickName": "赵六",
+        "userGroup": "部门2"
+      }
+    ]
+  }

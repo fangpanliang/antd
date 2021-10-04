@@ -1,0 +1,23 @@
+.imgdiv{
+    padding-top: 20px;
+}
+
+.img1div,.img2div{
+    width: 500px;
+    height: 440px;
+    border: 2px solid;
+}
+
+#img1,#img2{
+    width: 490px;
+    height: auto;
+}
+
+.buttondiv{
+    padding-top: 20px;
+}
+
+.bottombutton{
+    width: 80px;
+    height: 32px;
+}

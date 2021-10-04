@@ -1,0 +1,40 @@
+.topquerydiv{
+    margin-top: 30px;
+}
+
+
+#drawinglabel{
+    padding-left: 30px;
+}
+
+.labelinputline{
+    border:none;
+    border-radius: 0px;
+    border-bottom: 1px solid #ccc;
+    width: 193px;
+}
+
+#drawingquerybutton{
+    padding-left: 30px;
+}
+
+.topbutton{
+    width: 66px;
+    height: 30px;
+}
+
+.drawingtablediv{
+    margin-top: 30px;
+}
+
+.drawingmanageopratetd{
+    width: 100px;
+}
+
+.drawingmanagedrawingnametd{
+    width: 300px;
+}
+
+.drawingmanagedrawinglabeltd{
+    width: 300px;
+}

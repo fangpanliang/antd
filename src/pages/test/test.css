@@ -1,0 +1,13 @@
+#smallDiv{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    display: none;
+}
+
+#bigDiv{
+    width: 240px;
+    height: 200px;
+    border: 2px solid;
+    display: none;
+}

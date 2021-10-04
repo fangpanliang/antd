@@ -1,0 +1,56 @@
+.logodiv{
+    margin-top: 180px;
+}
+
+.maintable{
+    margin-top: 18px;
+}
+
+.indexInput{
+    height: 36px;
+    width: 530px;
+}
+
+.query_base_text{
+    height:26px;
+    font-size: 7px;
+    border-radius: 50%;
+}
+
+.retrievalbutton{
+    font-size: 17px;
+    width: 70px;
+    height: 35px;
+    margin-left: 5px;
+}
+
+#query_base_text_win{
+    display: none;
+    position: fixed;
+    align-items: center;
+    top:28%;
+    left:28%;
+    width: 420px;
+    height: 180px;
+    border: 3px solid honeydew;
+    background-color: aliceblue;
+    z-index: 11;
+    border-radius: 8px;
+}
+
+.query_base_text_table{
+    text-align: center;
+    height: 170px;
+}
+
+#texttitle{
+    font-size: 20px;
+}
+
+#uploaddrawing{
+    position: absolute;
+    top: 8px;
+    width: 23px;
+    height: 20px;
+    opacity: 0;
+}

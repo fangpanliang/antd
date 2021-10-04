@@ -1,0 +1,18 @@
+#systemrecoverydiv{
+    width: 60%;
+    margin:30px auto;
+}
+
+#initialbutton{
+    width: 90px;
+    margin-left: 30px;
+}
+
+#initialh3{
+    margin-top: 30px;
+}
+
+#recoverybutton{
+    width: 90px;
+    margin-left: 30px;
+}

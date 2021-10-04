@@ -1,0 +1,37 @@
+.useraddwin_css{
+    display: none;
+    position: absolute;
+    align-self: center;
+    top: 20%;
+    left: 30%;
+    width: 480px;
+    height: 180px;
+    border: 3px solid honeydew;
+    background-color: aliceblue;
+    z-index: 11;
+}
+
+.shadow_css {
+    display: none;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 10;
+    /* 为mozilla firefox 设置透明度  */
+    -moz-opacity: 0.6;
+    /* 设置透明度 */
+    opacity: .60;
+    /* 为IE 设置透明度  */
+    filter: alpha(opacity=66);}
+
+    .inputbox{
+        margin: 0 5px;
+    }
+
+    .buttons{
+        width: 110px;
+        height:30px;
+    }

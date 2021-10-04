@@ -1,0 +1,39 @@
+.toplabeldiv{
+    margin-top: 30px;
+}
+
+.topinputline{
+    border:none;
+    border-radius: 0px;
+    border-bottom: 1px solid #ccc;
+    width: 593px;
+}
+
+.uploadlistdiv{
+    margin-top: 20px;
+}
+
+.drawingnametd{
+    width: 312px;
+}
+
+.uploadstatetd,.opratetd{
+    width: 180px;
+}
+
+#uploadbottombuttondiv{
+    margin-top: 30px;
+}
+
+.uploadbottombutton{
+    width: 90px;
+    height: 30px;
+}
+
+#singlefile{
+    position: relative;
+    left: 88px;
+    width: 76px;
+    height: 28px;
+    opacity: 0;
+}

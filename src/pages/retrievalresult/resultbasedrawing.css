@@ -1,0 +1,53 @@
+.sourceimg{
+    width: 470px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid;
+}
+
+.bigimg{
+    width: 460px;
+    height: auto;
+}
+
+.resultimg{
+    width: 470px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid;
+    overflow: scroll;
+    overflow-x:hidden;
+}
+
+.thumbnaildiv{
+    margin-top: 30px;
+    width: 168px;
+    height: 500px;
+    border: 1px solid;
+    overflow: scroll;
+    overflow-x:hidden;
+}
+
+.thumbnailtd{
+    width: 140px;
+    height: 140px;
+}
+
+.thumbnailimg{
+    width: 140px;
+    height: auto;
+}
+
+.thumbnailtd select{
+    border-color: aqua;
+    border:3px solid;
+    background-color: aqua;
+}
+
+.thumbnailimg select{
+    border-color: aqua;
+    border:3px solid;
+    background-color: aqua;
+}

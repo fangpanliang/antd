@@ -1,0 +1,33 @@
+.resultimgdiv{
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid;
+    overflow: scroll;
+    overflow-x:hidden;
+}
+
+.bigimg{
+    width: 490px;
+    height: auto;
+}
+
+.thumbnaildiv{
+    width: 168px;
+    height: 500px;
+    margin-top: 30px;
+    border: 1px solid;
+    overflow: scroll;
+    overflow-x:hidden;
+}
+
+.thumbnailtd{
+    width: 140px;
+    height: 140px;
+}
+
+.thumbnailimg{
+    width: 140px;
+    height: auto;
+}
